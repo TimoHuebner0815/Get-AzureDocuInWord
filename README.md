@@ -1,1 +1,1 @@
-# Get-AzureDocuInWord
+# Get-AzureDocuInWord.ps1
